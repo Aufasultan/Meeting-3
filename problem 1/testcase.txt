@@ -1,0 +1,25 @@
+input: Input number for a, b, c :
+       3 8 9
+outpurt: D =-44
+         The Discriminant is less Than 0, then x1 and x2 are Imaginary
+
+input: Input number for a, b, c :
+       2 3 5
+output: D =-31
+        The Discriminant is less Than 0, then x1 and x2 are Imaginary
+
+input: Input number for a, b, c :
+       19 23 5
+output: The Discriminant is Greater Than 0, then x1 and x2 are real and distinc
+        X1 =-0.284038
+        X2 =-0.926488
+
+input: Input number for a, b, c :
+       8 9 12
+output: D =-303
+        The Discriminant is less Than 0, then x1 and x2 are Imaginary
+
+input: Input number for a, b, c :
+       42 6 19
+output: D =-3156
+        The Discriminant is less Than 0, then x1 and x2 are Imaginary
