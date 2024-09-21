@@ -1,0 +1,21 @@
+input: THE LARGEST NUMBER
+       Please Input 3 Number to a, b, and c
+       1 2 3
+output: The Largest Number Is = 3
+
+input: Please Input 3 Number to a, b, and c
+       12 3 5
+output: The Largest Number Is = 12
+
+input: Please Input 3 Number to a, b, and c
+       30 9 81
+output: The Largest Number Is = 81
+
+input: Please Input 3 Number to a, b, and c
+       13 56 78
+output: The Largest Number Is = 78
+
+input: Please Input 3 Number to a, b, and c
+       67 34 56
+output: The Largest Number Is = 67
+
